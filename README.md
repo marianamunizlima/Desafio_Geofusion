@@ -22,6 +22,6 @@ Comandos:
  
  3 - Abrir o cmd om a versão do Ruby ("Start Command Prompt with Ruby"), acessar a pasta do projeto da automação ("Desafio_Geofusion")
  
- 4 - Executar o comando: "bundle install" (Então ele instalará todas as dependências e pacotes para a execução do projeto).
+ 4 - Executar o comando: "bundle install" (Então ele instalará todas as dependências e pacotes para a execução do projeto). Para saber se instalou tudo corretamente, ao final deve aparecer uma mensagem como: "Bundle complete! 9 Gemfile dependencies, 38 gems now installed."
  
  5 - Executar o comando: cucumber --tags @<Aqui você pode colocar qualquer tag já mapeada>.
