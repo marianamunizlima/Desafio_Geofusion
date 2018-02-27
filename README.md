@@ -11,7 +11,7 @@ Para Windows, acessar a url: https://rubyinstaller.org/downloads/ e realizar o d
 Para Linux/MacOS, acessar a url: https://www.ruby-lang.org/pt/downloads/
 e efetuar os comandos (O próprio site contém as informações de maneira bem simples), de acordo com a configuração da máquina, para realizar o download.
 
-=========================================================================================================================================
+***********************************
 Instruções:
 
 Comandos: 
