@@ -1,6 +1,7 @@
 # Desafio_Geofusion
 Desafio Técnico
-
+ 
+ Ruby:
 
 Configuração:
 
@@ -34,3 +35,9 @@ Comandos:
  Evidências de bugs e melhorias:
  
  1 - Realizar o download da pasta "Evidências". Lá contempla os bugs registrados, as evidências dos bugs registrados e mais um documento contendo melhorias/pequenos ajuste para a aplicação.
+ 
+ *************************************
+ 
+ Java:
+ 
+ Arquivo zip: desafio_geofusion_maven.zip 
